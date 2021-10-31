@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874254827461",
+    "project_id": "shoppingapphalari",
+    "storage_bucket": "shoppingapphalari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874254827461:android:56d8aada18d556ce4ad5ac",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874254827461-58fc7csu6jgjs3jkjsqh99ffr1e2gp0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0hPkxWnubgbTfgZlozxHBo2qwbEml2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874254827461-58fc7csu6jgjs3jkjsqh99ffr1e2gp0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
